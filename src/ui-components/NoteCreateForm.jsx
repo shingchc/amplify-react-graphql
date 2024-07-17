@@ -153,7 +153,7 @@ export default function NoteCreateForm(props) {
         {...getOverrideProps(overrides, "name")}
       ></TextField>
       <TextField
-        label="Description"
+        label="Descriptionsss"
         isRequired={false}
         isReadOnly={false}
         value={description}
