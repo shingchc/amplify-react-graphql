@@ -127,7 +127,7 @@ export default function NoteCreateForm(props) {
       {...rest}
     >
       <TextField
-        label="Name"
+        label="Namess"
         isRequired={true}
         isReadOnly={false}
         value={name}
